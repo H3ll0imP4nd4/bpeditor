@@ -1,5 +1,5 @@
 # BPeditor
-A web file editory by BradiPanda (me and [Panda](https://github.com/H3ll0imP4nd4)), with rainbows and unicorns.
+A web file editory by BradiPanda (me and [Roblio](https://github.com/roblio), with rainbows and unicorns.
 
 Based on Pheditor by Hamid Samak:
 
